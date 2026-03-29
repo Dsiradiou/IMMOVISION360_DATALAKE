@@ -1,4 +1,4 @@
-Data\raw\images\*
-Data\raw\texts\*
-Data\raw\tabular\*
+Data/raw/images/*
+Data/raw/texts/*
+Data/raw/tabular/*
 myenv
