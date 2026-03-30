@@ -1,7 +1,4 @@
-Data/raw/images/*
-Data/raw/texts/*
-Data/raw/tabular/*
+Data\\raw\\images\*
+Data\\raw\\texts\\*
+Data\\raw\\tabular\\*
 myenv
-C:\Users\Siradiou\Documents\collecte et exploration de données\ImmoVision360_DataLake\Data\raw\images\*
-C:\Users\Siradiou\Documents\collecte et exploration de données\ImmoVision360_DataLake\Data\raw\texts\*
-C:\Users\Siradiou\Documents\collecte et exploration de données\ImmoVision360_DataLake\myenv\*
